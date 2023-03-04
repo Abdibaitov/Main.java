@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-
+        // GOOD JOB
         Shark[] sharks = new Shark[5];
         Turtle[] turtles = new Turtle[5];
         Eagle[] eagles = new Eagle[5];
